@@ -6,8 +6,8 @@ Welcome to my certificates repository.
 - Business Email Certificate
 - Selling online Certificate
 - Starting a small business Certificate
-- 
-- ##  Volunteering
+  
+##  Volunteering
 - UNICEF Certificate
 
 ##  About Me
